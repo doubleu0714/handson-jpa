@@ -1,2 +1,2 @@
-# jpa-handson
-JPA Hands on
+# hanson-jpa
+Handson JPA
